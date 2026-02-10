@@ -1,0 +1,84 @@
+---
+- summary: |
+    Регистрация нового пользователя через GitHub OAuth
+  status: pass
+
+- summary: |
+    Создание игры против бота
+  status: pass
+
+- summary: |
+    Присоединение к существующей игре со случайным соперником
+  status: pass
+
+- summary: |
+    Создание игры с другом по ссылке
+  status: pass
+
+- summary: |
+    Выбор языка программирования в игре
+  status: pass
+
+- summary: |
+    Набор кода в редакторе с подсветкой синтаксиса
+  status: pass
+
+- summary: |
+    Запуск тестов для проверки решения
+  status: pass
+
+- summary: |
+    Просмотр прогресса решения соперника
+  status: pass
+
+- summary: |
+    Общение с соперником в чате во время игры
+  status: pass
+
+- summary: |
+    Просмотр рейтинга и статистики
+  status: pass
+
+- summary: |
+    Просмотр истории сыгранных игр
+  status: pass
+
+- summary: |
+    Локализация сайта на русский язык
+  status: fail
+
+- summary: |
+    Локализация сайта на английский язык
+  status: pass
+
+- summary: |
+    Проверка использования HTTPS и GitHub OAuth
+  status: pass
+
+- summary: |
+    Проверка стабильности при одновременной игре
+  status: pass
+
+- summary: |
+    Проверка скорости загрузки главной страницы
+  status: pass
+
+- summary: |
+    Проверка скорости работы редактора кода
+  status: pass
+
+- summary: |
+    Проверка корректного отображения сайта в браузере Google Chrome
+  status: pass
+
+- summary: |
+    Проверка корректного отображения сайта в браузере Mozilla Firefox
+  status: pass
+
+- summary: |
+    Проверка адаптивности сайта
+  status: pass
+
+- summary: |
+    Проверка скорости работы сайта
+  status: fail
