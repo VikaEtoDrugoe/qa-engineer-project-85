@@ -77,7 +77,7 @@
 
 - summary: |
     Проверка адаптивности сайта
-  status: pass
+  status: fail
 
 - summary: |
     Проверка скорости работы сайта
